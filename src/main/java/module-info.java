@@ -4,5 +4,4 @@ module ucr.examen2 {
 
 
     opens ucr.examen2 to javafx.fxml;
-    exports ucr.examen2;
 }
